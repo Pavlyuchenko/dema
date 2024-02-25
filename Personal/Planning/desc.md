@@ -1,0 +1,1 @@
+I'd like to keep my planning, such as possible trips, projects, opportunities, here.

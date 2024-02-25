@@ -27,9 +27,9 @@
     "iconsInNotesEnabled": true,
     "iconIdentifier": ":"
   },
-  "Organization of DEMA vault.md": "RiQuestionFill",
   "Personal": "FasPerson",
   "Learning": "TiSchool",
   "Creative": "FasLightbulb",
-  "Archive": "RiArchive2Fill"
+  "Archive": "RiArchive2Fill",
+  "Organization of the DEMA vault.md": "RiQuestionFill"
 }

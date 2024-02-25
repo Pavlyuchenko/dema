@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "2754294683fefd01",
+        "id": "5e77337469197f91",
         "type": "tabs",
         "children": [
           {
-            "id": "8e92a03bececb841",
+            "id": "e6e6bd2f9cef3217",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Personal/Journal/EU TalSchool + Polsko + Colours.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6f71fb4c0463b5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Journal/Takové mezidobí.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Personal/Journal/Takové mezidobí.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Personal/Journal/Takové mezidobí.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Personal/Journal/Takové mezidobí.md"
               }
             }
           }
@@ -147,53 +160,53 @@
       "obsidian-importer:Open Importer": true
     }
   },
-  "active": "8e92a03bececb841",
+  "active": "8e74ea776a947a7a",
   "lastOpenFiles": [
     "git.sh~",
-    "Organization of DEMA vault.md",
+    "Personal/Journal/_desc.md",
+    "Personal/Journal/Takové mezidobí.md",
+    "Personal/Journal/EU TalSchool + Polsko + Colours.md",
+    "Untitled.md",
+    "Personal/Journal/Cesta do Nizozemska.md",
+    "Personal/Journal/Vrátit či nevrátit (+ Aachen).md",
     "Creative/Writing/desc.md",
     "Archive/desc.md",
-    "Learning/School/desc.md",
-    "Learning/Other/desc.md",
+    "Ιimgs/anatem.jpg",
+    "Organization of the DEMA vault.md",
+    "README.md",
+    "Personal/Journal/Poslední zvonění a Tristan.md",
+    "Personal/Journal/Poslední den INKOMu.md",
+    "Personal/Journal/Pohoda (středa).md",
+    "Personal/Journal/Overwhelmed.md",
+    "Personal/Journal/Narozeniny, certifikáty a Spiderman!.md",
+    "Personal/Journal/Maturity.md",
+    "Personal/Journal/Maturita se blíží... ale já jsem v chillu.md",
+    "Personal/Journal/Mallorca.md",
+    "Personal/Journal/Koronavirus.md",
+    "Personal/Journal/Disappointing bytos.md",
+    "Personal/Journal/Čtvrtek.md",
+    "Personal/Journal/Cesta prozření.md",
+    "Personal/Planning/desc.md",
+    "Ιimgs/123242198_840467720094685_5960997072926966963_n.jpg",
+    "Personal/Journal/What went wrong.md",
+    "Personal/Journal/Zvrat.md",
+    "Personal/Planning",
     "Creative/Writing",
     "Learning/Other",
     "Learning/School",
-    "Work/krouzek-v-programovani/uvod.md",
     "Work/krouzek-v-programovani/1/index.html",
     "Work/krouzek-v-programovani/1/code2.js",
     "Work/krouzek-v-programovani/1/code.js",
     "Work/krouzek-v-programovani/1",
-    "README.md",
-    "git.sh.md",
     "git.sh",
-    "Personal/3-month Reviews/2024/2024 E1.md",
-    "Personal/3-month Reviews/2020",
-    "Personal/3-month Reviews/2020/2020.md",
-    "Personal/3-month Reviews/2023/2023 Q1.md",
-    "Personal/3-month Reviews/2022/2022 Q1.md",
-    "Personal/3-month Reviews/2021/2021 Q1.md",
-    "Personal/3-month Reviews/_template.md",
-    "Personal/3-month Reviews/2023/2023 Q2+3.md",
-    "Personal/3-month Reviews/2021/2021 Q4.md",
-    "Personal/3-month Reviews/2021/2021 Q3.md",
-    "Personal/3-month Reviews/2021/2021 Q2.md",
-    "Personal/3-month Reviews/2023/2023 Q4.md",
-    "Personal/3-month Reviews/2022/2022 Q4.md",
-    "Personal/3-month Reviews/2022/2022 Q2.md",
-    "Personal/3-month Reviews/2022/2022 Q3.md",
-    "Personal/3-month Reviews/Reviews/Ali Yearly review Template.md",
-    "Personal/Songs Meaning/Spider-Man - Across the Spiderverse.md",
-    "Personal/Songs Meaning/Switchfoot + American Authors.md",
     "Capture/ARCHIVE/Blog Posts - Video Summary/Blog posts/MBTI/attachments/Pasted image 20240225170358.png",
     "Ιimgs/Pasted image 20240225162754.png",
-    "Ιimgs/123242198_840467720094685_5960997072926966963_n.jpg",
     "Ιimgs/Untitled 48.png",
     "Ιimgs/123262490_2946190882372656_4851796465310442550_n.jpg",
     "Ιimgs/123432322_4521673911237782_6442765696023418392_n.jpg",
     "Ιimgs/Untitled 29.png",
     "Ιimgs/vr.jpg",
     "Ιimgs/vovo.png",
-    "Ιimgs/v.jpg",
     "Untitled.canvas"
   ]
 }
