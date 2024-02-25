@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organization of DEMA vault.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organization of DEMA vault.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Organization of DEMA vault.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Organization of DEMA vault.md"
+                "file": "README.md"
               }
             }
           }
@@ -147,11 +147,18 @@
       "obsidian-importer:Open Importer": true
     }
   },
-  "active": "8e74ea776a947a7a",
+  "active": "8e92a03bececb841",
   "lastOpenFiles": [
+    "Organization of DEMA vault.md",
+    "Creative/Writing/desc.md",
+    "Archive/desc.md",
+    "Learning/School/desc.md",
+    "Learning/Other/desc.md",
+    "Creative/Writing",
+    "Learning/Other",
+    "Learning/School",
     "git.sh~",
     "Work/krouzek-v-programovani/uvod.md",
-    "Organization of DEMA vault.md",
     "Work/krouzek-v-programovani/1/index.html",
     "Work/krouzek-v-programovani/1/code2.js",
     "Work/krouzek-v-programovani/1/code.js",
@@ -163,12 +170,8 @@
     "Personal/3-month Reviews/2020",
     "Personal/3-month Reviews/2020/2020.md",
     "Personal/3-month Reviews/2023/2023 Q1.md",
-    "Personal/3-month Reviews/2024",
     "Personal/3-month Reviews/2022/2022 Q1.md",
-    "Personal/3-month Reviews/2023",
     "Personal/3-month Reviews/2021/2021 Q1.md",
-    "Personal/3-month Reviews/2022",
-    "Personal/3-month Reviews/2021",
     "Personal/3-month Reviews/_template.md",
     "Personal/3-month Reviews/2023/2023 Q2+3.md",
     "Personal/3-month Reviews/2021/2021 Q4.md",
@@ -182,9 +185,6 @@
     "Personal/Songs Meaning/Spider-Man - Across the Spiderverse.md",
     "Personal/Songs Meaning/Switchfoot + American Authors.md",
     "Personal/Songs Meaning/Songy a jejich meaning (pro mě).md",
-    "Personal/Songs Meaning/Saturday.md",
-    "Personal/Songs Meaning/One Republic.md",
-    "Personal/Songs Meaning/On you mind - Noah Floersch.md",
     "Capture/ARCHIVE/Blog Posts - Video Summary/Blog posts/MBTI/attachments/Pasted image 20240225170358.png",
     "Ιimgs/Pasted image 20240225162754.png",
     "Ιimgs/123242198_840467720094685_5960997072926966963_n.jpg",
