@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "0868d3f2040138c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "2754294683fefd01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e92a03bececb841",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organization of DEMA vault.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e4e0415aef86f1e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "35f994e4bb9512b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e74ea776a947a7a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5001584ec317582b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "676acbd33168fab4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 273.5
+  },
+  "right": {
+    "id": "4cfe182ef53b854d",
+    "type": "split",
+    "children": [
+      {
+        "id": "def01d45998bd396",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3cf1d0e720d7ce1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Organization of DEMA vault.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "06c25a4f5738c1a3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Organization of DEMA vault.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8729f9245aa85d7e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "447095cb71ee97bd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Organization of DEMA vault.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": true
+    }
+  },
+  "active": "8e74ea776a947a7a",
+  "lastOpenFiles": [
+    "git.sh~",
+    "Work/krouzek-v-programovani/uvod.md",
+    "Organization of DEMA vault.md",
+    "Work/krouzek-v-programovani/1/index.html",
+    "Work/krouzek-v-programovani/1/code2.js",
+    "Work/krouzek-v-programovani/1/code.js",
+    "Work/krouzek-v-programovani/1",
+    "README.md",
+    "git.sh.md",
+    "git.sh",
+    "Personal/3-month Reviews/2024/2024 E1.md",
+    "Personal/3-month Reviews/2020",
+    "Personal/3-month Reviews/2020/2020.md",
+    "Personal/3-month Reviews/2023/2023 Q1.md",
+    "Personal/3-month Reviews/2024",
+    "Personal/3-month Reviews/2022/2022 Q1.md",
+    "Personal/3-month Reviews/2023",
+    "Personal/3-month Reviews/2021/2021 Q1.md",
+    "Personal/3-month Reviews/2022",
+    "Personal/3-month Reviews/2021",
+    "Personal/3-month Reviews/_template.md",
+    "Personal/3-month Reviews/2023/2023 Q2+3.md",
+    "Personal/3-month Reviews/2021/2021 Q4.md",
+    "Personal/3-month Reviews/2021/2021 Q3.md",
+    "Personal/3-month Reviews/2021/2021 Q2.md",
+    "Personal/3-month Reviews/2023/2023 Q4.md",
+    "Personal/3-month Reviews/2022/2022 Q4.md",
+    "Personal/3-month Reviews/2022/2022 Q2.md",
+    "Personal/3-month Reviews/2022/2022 Q3.md",
+    "Personal/3-month Reviews/Reviews/Ali Yearly review Template.md",
+    "Personal/Songs Meaning/Spider-Man - Across the Spiderverse.md",
+    "Personal/Songs Meaning/Switchfoot + American Authors.md",
+    "Personal/Songs Meaning/Songy a jejich meaning (pro mě).md",
+    "Personal/Songs Meaning/Saturday.md",
+    "Personal/Songs Meaning/One Republic.md",
+    "Personal/Songs Meaning/On you mind - Noah Floersch.md",
+    "Capture/ARCHIVE/Blog Posts - Video Summary/Blog posts/MBTI/attachments/Pasted image 20240225170358.png",
+    "Ιimgs/Pasted image 20240225162754.png",
+    "Ιimgs/123242198_840467720094685_5960997072926966963_n.jpg",
+    "Ιimgs/Untitled 48.png",
+    "Ιimgs/123262490_2946190882372656_4851796465310442550_n.jpg",
+    "Ιimgs/123432322_4521673911237782_6442765696023418392_n.jpg",
+    "Ιimgs/Untitled 29.png",
+    "Ιimgs/vr.jpg",
+    "Ιimgs/vovo.png",
+    "Ιimgs/v.jpg",
+    "Untitled.canvas"
+  ]
+}

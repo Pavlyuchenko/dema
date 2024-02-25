@@ -1,0 +1,17 @@
+---
+Datum: 2022-02-15T15:45
+---
+Well...
+Jak to tak vidím, tak už se zase ztenčuje interval mezi zápisy, jééj!
+Co jsem si tak zevrubně pročítal předchozí zápisy, tak to je fakt crazy, jsem upřímně zvědav, co za několik měsíců nebo let řeknu na tenhle xd.
+Událo se toho fakt hodně, až se divím, že to sem píšu až teďka.. asi jsem zapomněl nebo něco, fakt nevím, každopádně teď se potřebuju klasicky někomu vyzpovídat...
+...což nás konečně dostává k prvnímu issue. Hádej, můžeš třikrát, co to bude... Vojcek! The man the myth the legend. Unexpected, right? Musím říct, že se k lepšímu nezměnilo vůbec nic, spíš právě naopak. Zpětně si pomalu uvědomuju, co všechno je vlastně špatně a nenapadá mě žádné řešení, protože to všechno vypadá nezvratně.
+Takže sem hážu stránku, na které bych to měl tak nějak shrnout:
+[[What went wrong]]
+Tento zápis dopisuju 6 dní po dopsání toho předchozího. Ta stránka na předchozím řádku bez debat vypadá, jako by to psalo nějaké naštvané děcko, které si potřebuje na někom vylít svou zlost... a ono to fakt funguje. Já nevím, jak je to možné, ale 3 dny po tomto “výlevu” mi Vojta napsal, že by se šel podívat na náš zápas s Jakartovicemi, a i když nakonec nepřišel, mi to udělalo obrovskou radost. Krom toho jsme si několik hodin psali o Verči. A zase mi připadá, že se kloužu na klouzačce ve tvaru sinusoidy, protože někdy jsem s Vojtou úplně happy a jindy mě buď sere nebo mi připadá, že se se mnou vůbec nechce bavit.
+No a dost s Vojtou, nebo mě jebne. Hráli jsme první přátelák po zimě, dal jsem gól na 1:0, ale prohráli jsme 5:3. Se svým výkonem jsem byl spokojený, týmový byl.. no trošku horší. Každopádně máme dvě posily, to půjde.
+Taky se postupně připravuju na maturitu a finančně na výšku. Teď přes měsíc v kuse testuju, a i když to je celkem nuda, tak stěžovat si nemohu. Krom toho jsem postoupil i v Kasiopei, i v MOPu, a to ještě nebyla ani Soutěž v programování. Takže v tomto ohledu celkem chillec.
+Funny vsuvka. Dneska na cestě z knihovny si tři kluci kopali, a utekl jim balón blízko mě. Jeden kluk pro něj běžel a pak mi ho nahrál. Já jsem hodil krátkou stahovačku a nahrál ho zpátky. Fakt mi to udělalo radost.
+Krom všeho zmíněného mám před sebou výlet, jsou totiž jarní prázdniny, a Budapešť. Vojta bohužel definitivně řekl, že nepojede. No co sa dá dělač. Taky se s Lukasem neúspěšně snažíme najít nějaký Workaway. Neúspěšně ve smyslu, že se do toho ne a ne dokopat, nebo spíš nevíme, jak dál. No ale nějak to vyjde podle mě. Did it? Taky bych rád zase začal nějaký svůj projekt. Přemýšlím na čtyřmi možnostmi: (od nejpravděpodobnějších) Box sladkostí, TravelDaWorld, Interaktivní učebnice informatiky a Newser. Jsem zvědav, jak to dopadne. Všechny projekty mají něco, přes co se nemůžu přenést... no bude to ještě zajímavé :D.
+Doma mi všechno připadá relativně v klidu, za což jsem mega rád, i když z nějakého důvodu nemám potřebu to nějak dávat najevo. Cherry nedávno strašně bolelo břicho a mi z toho bylo fakt na nic, ale už je v klidu. Mamka taky žádný problém, taťka snad taky v klidu, to samé prarodiče.. co víc si přát. No a Štěpán by se mohl víc hýbat a víc se učit. No co, je to jeho život.
+Myslím, že jsem tak všechno shrnul. Auf wiedersehen.

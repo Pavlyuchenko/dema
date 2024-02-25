@@ -1,0 +1,14 @@
+{
+  "accentColor": "",
+  "theme": "obsidian",
+  "cssTheme": "Minimal",
+  "interfaceFontFamily": "Source Sans 3,Open Sans,Inter",
+  "textFontFamily": "Source Sans 3,Open Sans",
+  "baseFontSize": 19,
+  "baseFontSizeAction": true,
+  "nativeMenus": false,
+  "translucency": true,
+  "enabledCssSnippets": [
+    "styles"
+  ]
+}
